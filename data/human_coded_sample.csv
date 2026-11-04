@@ -1,0 +1,231 @@
+comment_id,language,script,text,themes,sentiment,urgency,sensitive_category,coder,sample_stratum
+R01552,en,Latn,Some subcontractor timesheets are being inflated and everyone knows about it. I trust the company's direction and I am proud of the projects we deliver.,ethics_integrity;leadership,mixed,high,misconduct,analyst_1,enriched_sensitive
+R00519,ur,Arab,سپروائزر صرف تب بات کرتا ہے جب کوئی غلطی ہو جائے۔ کئی مہینوں سے اسٹاف کم ہے اور ہر بندہ دو لوگوں کا کام کر رہا ہے۔ پچھلے دو سال میں ہمیں کوئی ٹیکنیکل ٹریننگ نہیں ملی۔,manager_support;workload;training,negative,medium,none,analyst_1,random_by_language
+R02834,en,Latn,The new accommodation and mess hall are clean and comfortable. We hear about important changes through rumours before management tells us.,facilities;communication,mixed,medium,none,analyst_1,random_by_language
+R02601,ar,Arab,تم تأجيل إجازتي مرتين ولم أزر بلدي منذ سنتين.,work_life,negative,high,none,analyst_1,random_by_language
+R02828,en,Latn,"The camp rooms are overcrowded, eight people to a room, and the air conditioning has been broken for weeks. The new rotation schedule gives us more time to rest.",facilities;work_life,mixed,high,none,analyst_1,random_by_language
+R00510,ur,Arab,ای آر پی سسٹم بہت سست ہے اور ایک ہی فارم دو بار بھرنا پڑتا ہے۔,tools_equipment,negative,medium,none,analyst_1,random_by_language
+R00124,ur,Arab,تنخواہیں مہنگائی کے حساب سے نہیں بڑھیں، خاص طور پر کرایہ بہت بڑھ گیا ہے۔,pay_benefits,negative,medium,none,analyst_1,random_by_language
+R02143,hi,Deva,"कैंप के कमरों में बहुत भीड़ है, एक कमरे में आठ लोग हैं और एसी कई हफ़्तों से ख़राब है। यहाँ हर किसी के साथ इज़्ज़त से पेश आया जाता है, चाहे वह किसी भी देश का हो।",facilities;respect_inclusion,mixed,high,none,analyst_1,random_by_language
+R02644,ar,Arab,العمل كثير لكنه مخطط جيداً، ومشرفي يحرص على توزيع المهام بشكل عادل.,workload;manager_support,positive,low,none,analyst_1,random_by_language
+R01732,hi,Deva,अच्छा होगा अगर सालाना इंक्रीमेंट के नियम सबको साफ़-साफ़ बताए जाएँ।,pay_benefits,neutral,low,none,analyst_1,random_by_language
+R02433,ar,Arab,معايير السلامة في هذا الموقع قوية والمشرفون يأخذونها بجدية. العمال من جنسيات معينة يحصلون على غرف أفضل وورديات أسهل من بقيتنا.,health_safety;respect_inclusion;facilities,mixed,high,discrimination,analyst_1,random_by_language
+R02604,en,Latn,There is very little cooperation between the engineering and construction teams. The new accommodation and mess hall are clean and comfortable.,teamwork;facilities,mixed,medium,none,analyst_1,random_by_language
+R00767,hi,Deva,कोई टिप्पणी नहीं।,other,neutral,low,none,analyst_1,random_by_language
+R00002,en,Latn,we have not had any technical training in the last two years,training,negative,medium,none,analyst_1,random_by_language
+R01226,ar,Arab,أُتيحت لي هذا العام فرصة قيادة حزمة عمل صغيرة، وقد ساعدني ذلك كثيراً على التطور. أثق في توجه الشركة وأفخر بالمشاريع التي ننجزها.,career_growth;leadership,positive,low,none,analyst_1,random_by_language
+R00874,hi,Deva,कुछ नहीं।,other,neutral,low,none,analyst_1,random_by_language
+R01097,ur,Arab,پچھلے دو سال میں ہمیں کوئی ٹیکنیکل ٹریننگ نہیں ملی۔,training,negative,medium,none,analyst_1,random_by_language
+R02047,hi,Deva,नए डिजिटल परमिट सिस्टम से हमारा काम बहुत तेज़ हो गया है। साइट की बस सुबह साढ़े चार बजे निकलती है और रोज़ दो घंटे सफ़र में बर्बाद होते हैं।,tools_equipment;facilities;work_life,mixed,medium,none,analyst_1,random_by_language
+R02845,en,Latn,My supervisor only talks to us when something goes wrong. The new digital permit system has made our work much faster.,manager_support;tools_equipment,mixed,medium,none,analyst_1,random_by_language
+R00751,hi,Deva,"हमारी टीम की प्राथमिकताएँ रोज़ बदलती हैं और मैनेजर वजह नहीं बताते। तनख़्वाह महँगाई के हिसाब से नहीं बढ़ी, ख़ासकर किराया बहुत बढ़ गया है।",manager_support;communication;pay_benefits,negative,medium,none,analyst_1,random_by_language
+R00385,ur,Arab,پچھلے دو سال میں ہمیں کوئی ٹیکنیکل ٹریننگ نہیں ملی۔,training,negative,medium,none,analyst_1,random_by_language
+R00472,ur,Arab,کوئی تبصرہ نہیں۔,other,neutral,low,none,analyst_1,random_by_language
+R02388,hi,Deva,"तनख़्वाह महँगाई के हिसाब से नहीं बढ़ी, ख़ासकर किराया बहुत बढ़ गया है। मेरे मैनेजर हमारी बात सुनते हैं, साथ देते हैं और साफ़ निर्देश देते हैं।",pay_benefits;manager_support,mixed,medium,none,analyst_1,random_by_language
+R02568,ar,Arab,أحزمة الأمان لدينا قديمة وتالفة، وطلبات استبدالها يتم تجاهلها. مستوى التوتر في قسمنا مرتفع جداً ولا يوجد أي دعم.,health_safety;tools_equipment;wellbeing,negative,critical,safety_hazard,analyst_1,enriched_sensitive
+R01842,hi,Deva,"पिछले दो साल में हमें कोई टेक्निकल ट्रेनिंग नहीं मिली। अच्छे काम की कभी तारीफ़ नहीं होती, सिर्फ़ गलतियाँ दिखती हैं। प्रोजेक्ट मार्च में ख़त्म हो रहा है और किसी को नहीं पता कि हमारे कॉन्ट्रैक्ट रिन्यू होंगे या नहीं।",training;recognition;job_security,negative,high,none,analyst_1,random_by_language
+R00953,hi,Deva,पिछले दो साल में हमें कोई टेक्निकल ट्रेनिंग नहीं मिली। नई काउंसलिंग हेल्पलाइन एक अच्छा क़दम है। यूनिट 3 पर स्कैफ़ोल्डिंग में रेलिंग नहीं है और फिर भी हमें काम जारी रखने को कहा गया।,training;wellbeing;health_safety,mixed,critical,safety_hazard,analyst_1,enriched_sensitive
+R00350,ur,Latn,Pichle do saal mein humein koi technical training nahi mili. Hamari team ki priorities roz badalti hain aur manager wajah nahi batata.,training;manager_support;communication,negative,medium,none,analyst_1,random_by_language
+R01043,hi,Deva,कुछ नहीं।,other,neutral,low,none,analyst_1,random_by_language
+R02408,en,Latn,The new digital permit system has made our work much faster. The welding certification course was excellent and I learned a lot.,tools_equipment;training,positive,low,none,analyst_1,random_by_language
+R01999,ur,Arab,پرمٹ میں دیر لگتی ہے اس لیے لوگ گیس ٹیسٹنگ کے بغیر کنفائنڈ اسپیس میں جا رہے ہیں۔ پروموشن ان کو ملتی ہے جو باس کے قریب ہیں، کام کرنے والوں کو نہیں۔,health_safety;career_growth;respect_inclusion,negative,critical,safety_hazard,analyst_1,enriched_sensitive
+R01617,hi,Deva,मेरी छुट्टी दो बार टल चुकी है और मैं दो साल से घर नहीं गया।,work_life,negative,high,none,analyst_1,random_by_language
+R02138,en,Latn,"I trust the company's direction and I am proud of the projects we deliver. Salaries have not kept up with the cost of living, especially rent.",leadership;pay_benefits,mixed,medium,none,analyst_1,random_by_language
+R00431,ur,Arab,پروجیکٹ مارچ میں ختم ہو رہا ہے اور کسی کو نہیں پتا کہ ہمارے کنٹریکٹ رینیو ہوں گے یا نہیں۔,job_security,negative,high,none,analyst_1,random_by_language
+R01047,en,Latn,Our overtime payments have been delayed for three months and nobody explains why.,pay_benefits,negative,high,none,analyst_1,random_by_language
+R00012,en,Latn,"I was given the chance to lead a small work package this year, and it really helped my growth. The medical insurance is good and the claims process is quick.",career_growth;pay_benefits,positive,low,none,analyst_1,random_by_language
+R02638,en,Latn,We work twelve-hour shifts six days a week and I hardly see my family. Workers of certain nationalities get better rooms and easier shifts than the rest of us.,work_life;respect_inclusion;facilities,negative,high,discrimination,analyst_1,enriched_sensitive
+R01656,en,Latn,Senior management rarely visits the site and does not understand our problems. The new accommodation and mess hall are clean and comfortable.,leadership;facilities,mixed,medium,none,analyst_1,random_by_language
+R02485,en,Latn,"Salaries have not kept up with the cost of living, especially rent.",pay_benefits,negative,medium,none,analyst_1,random_by_language
+R00742,ar,Arab,الجميع هنا يُعامَلون باحترام بغض النظر عن جنسياتهم. زملائي مثل العائلة، نساعد بعضنا كل يوم.,respect_inclusion;teamwork,positive,low,none,analyst_1,random_by_language
+R02324,ur,Arab,نئے روٹیشن شیڈول سے آرام کا زیادہ وقت ملتا ہے۔ میرا مینیجر ہماری بات سنتا ہے، ساتھ دیتا ہے اور واضح ہدایات دیتا ہے۔ اچھا ہو اگر سالانہ انکریمنٹ کا طریقہ کار سب کو واضح طور پر بتایا جائے۔,work_life;manager_support;pay_benefits,positive,low,none,analyst_1,random_by_language
+R00381,en,Latn,"Work is busy but well planned, and my supervisor makes sure the load is shared fairly.",workload;manager_support,positive,low,none,analyst_1,random_by_language
+R01036,hi,Deva,"कैंप के कमरों में बहुत भीड़ है, एक कमरे में आठ लोग हैं और एसी कई हफ़्तों से ख़राब है।",facilities,negative,high,none,analyst_1,random_by_language
+R02434,hi,Deva,इंजीनियरिंग और कंस्ट्रक्शन टीमों के बीच तालमेल बहुत कम है।,teamwork,negative,medium,none,analyst_1,random_by_language
+R01008,ar,Arab,نسمع عن التغييرات المهمة من الإشاعات قبل أن تخبرنا الإدارة. مستحقات العمل الإضافي متأخرة منذ ثلاثة أشهر ولا أحد يشرح السبب.,communication;pay_benefits,negative,high,none,analyst_1,random_by_language
+R01649,ar,Arab,نعاني من نقص في عدد الموظفين منذ أشهر، وكل واحد منا يقوم بعمل شخصين. الطعام في المطعم سيئ ونفسه كل يوم. نضيع ساعات في انتظار العدد وقطع الغيار من المستودع.,workload;facilities;tools_equipment,negative,medium,none,analyst_1,random_by_language
+R02218,en,Latn,"A supervisor in our section shouts at workers, insults them and threatens to send them home. I trust the company's direction and I am proud of the projects we deliver.",respect_inclusion;manager_support;leadership,mixed,critical,harassment,analyst_1,enriched_sensitive
+R02624,ar,Arab,الاجتماعات الشهرية العامة تبقينا على اطلاع بخطط الشركة. أحزمة الأمان لدينا قديمة وتالفة، وطلبات استبدالها يتم تجاهلها.,communication;health_safety;tools_equipment,mixed,critical,safety_hazard,analyst_1,enriched_sensitive
+R01216,en,Latn,We hear about important changes through rumours before management tells us. The monthly town halls keep us informed about the company's plans.,communication,mixed,medium,none,analyst_1,random_by_language
+R00268,ur,Arab,پچھلے دو سال میں ہمیں کوئی ٹیکنیکل ٹریننگ نہیں ملی۔ میڈیکل انشورنس اچھی ہے اور کلیم جلدی منظور ہو جاتا ہے۔ تنخواہیں مہنگائی کے حساب سے نہیں بڑھیں، خاص طور پر کرایہ بہت بڑھ گیا ہے۔,training;pay_benefits,mixed,medium,none,analyst_1,random_by_language
+R00161,en,Latn,workers of certain nationalities get better rooms and easier shifts than the rest of us my leave has been postponed twice and i have not been home for two years,respect_inclusion;facilities;work_life,negative,high,discrimination,analyst_1,enriched_sensitive
+R01231,en,Latn,Our team was recognised at the annual awards and it motivated everyone.,recognition,positive,low,none,analyst_1,random_by_language
+R01329,en,Latn,i trust the company's direction and i am proud of the projects we deliver,leadership,positive,low,none,analyst_1,random_by_language
+R01127,ar,Arab,نعمل ورديات من اثنتي عشرة ساعة ستة أيام في الأسبوع، وبالكاد أرى عائلتي.,work_life,negative,medium,none,analyst_1,random_by_language
+R00707,ar,Arab,نعمل ورديات من اثنتي عشرة ساعة ستة أيام في الأسبوع، وبالكاد أرى عائلتي. المشروع ينتهي في مارس ولا أحد يعرف إن كانت عقودنا ستُجدَّد.,work_life;job_security,negative,high,none,analyst_1,random_by_language
+R01058,hi,Deva,हमारा ओवरटाइम तीन महीने से नहीं मिला और कोई वजह भी नहीं बताता।,pay_benefits,negative,high,none,analyst_1,random_by_language
+R00781,ar,Arab,الجميع هنا يُعامَلون باحترام بغض النظر عن جنسياتهم.,respect_inclusion,positive,low,none,analyst_1,random_by_language
+R02660,ar,Arab,الاجتماعات الشهرية العامة تبقينا على اطلاع بخطط الشركة. الأولويات في فريقنا تتغير كل يوم والمدير لا يوضح السبب. أثق في توجه الشركة وأفخر بالمشاريع التي ننجزها.,communication;manager_support;leadership,mixed,medium,none,analyst_1,random_by_language
+R01740,ur,Latn,"Annual awards mein hamari team ko saraha gaya, sab ka hosla barha. Is site par safety ke standards achay hain aur supervisors inko seriously lete hain. Mera manager hamari baat sunta hai, saath deta hai aur clear direction deta hai.",recognition;health_safety;manager_support,positive,low,none,analyst_1,random_by_language
+R00814,ar,Arab,التأمين الطبي جيد وإجراءات المطالبات سريعة.,pay_benefits,positive,low,none,analyst_1,random_by_language
+R00121,ur,Arab,شٹ ڈاؤن پروجیکٹ پر کام کا بوجھ برداشت سے باہر ہے، اچھے انجینئرز اسی وجہ سے استعفیٰ دے رہے ہیں۔ میں پانچ سال سے ایک ہی گریڈ میں ہوں اور پروموشن کا کوئی واضح راستہ نہیں۔ اس سال مجھے ایک چھوٹا ورک پیکج لیڈ کرنے کا موقع ملا، اس سے میری بہت گروتھ ہوئی۔,workload;career_growth,mixed,high,none,analyst_1,random_by_language
+R01623,en,Latn,We have been short-staffed for months and everyone is covering two jobs. Workers of certain nationalities get better rooms and easier shifts than the rest of us.,workload;respect_inclusion;facilities,negative,high,discrimination,analyst_1,enriched_sensitive
+R02171,ar,Arab,المشرف لا يتحدث معنا إلا عندما يحدث خطأ. السكن الجديد وصالة الطعام نظيفان ومريحان.,manager_support;facilities,mixed,medium,none,analyst_1,random_by_language
+R01154,ar,Arab,الإدارة العليا نادراً ما تزور الموقع ولا تفهم مشاكلنا. نظام ERP بطيء ونضطر لتعبئة النماذج نفسها مرتين. جدول المناوبة الجديد يمنحنا وقتاً أطول للراحة.,leadership;tools_equipment;work_life,mixed,medium,none,analyst_1,random_by_language
+R01464,hi,Deva,इस साइट पर सेफ़्टी के मानक अच्छे हैं और सुपरवाइज़र उन्हें गंभीरता से लेते हैं। हमारा ओवरटाइम तीन महीने से नहीं मिला और कोई वजह भी नहीं बताता।,health_safety;pay_benefits,mixed,high,none,analyst_1,random_by_language
+R00194,en,Latn,Please offer English classes for site staff. We have been short-staffed for months and everyone is covering two jobs.,training;workload,negative,medium,none,analyst_1,random_by_language
+R01450,ur,Arab,اہم تبدیلیوں کا ہمیں افواہوں سے پتا چلتا ہے، مینجمنٹ بعد میں بتاتی ہے۔,communication,negative,medium,none,analyst_1,random_by_language
+R01130,ar,Arab,التأمين الطبي جيد وإجراءات المطالبات سريعة. الرواتب لم تعد تتناسب مع غلاء المعيشة، وخاصة الإيجارات. نسمع عن التغييرات المهمة من الإشاعات قبل أن تخبرنا الإدارة.,pay_benefits;communication,mixed,medium,none,analyst_1,random_by_language
+R01957,en,Latn,The move from permanent to project-based contracts has made people anxious.,job_security,negative,medium,none,analyst_1,random_by_language
+R00338,en,Latn,"Promotions go to people who are close to the boss, not to those who perform.",career_growth;respect_inclusion,negative,medium,none,analyst_1,random_by_language
+R00943,hi,Deva,प्रोजेक्ट मार्च में ख़त्म हो रहा है और किसी को नहीं पता कि हमारे कॉन्ट्रैक्ट रिन्यू होंगे या नहीं।,job_security,negative,high,none,analyst_1,random_by_language
+R01161,ar,Arab,لا يوجد.,other,neutral,low,none,analyst_1,random_by_language
+R00802,hi,Deva,"प्रमोशन उन्हें मिलता है जो बॉस के क़रीब हैं, काम करने वालों को नहीं।",career_growth;respect_inclusion,negative,medium,none,analyst_1,random_by_language
+R00282,en,Latn,The new digital permit system has made our work much faster.,tools_equipment,positive,low,none,analyst_1,random_by_language
+R02675,ar,Arab,لم نحصل على أي تدريب فني خلال السنتين الماضيتين. يدخل العمال إلى الأماكن المغلقة دون فحص الغازات لأن إصدار التصريح يستغرق وقتاً طويلاً.,training;health_safety,negative,critical,safety_hazard,analyst_1,enriched_sensitive
+R02006,ar,Arab,زملائي مثل العائلة، نساعد بعضنا كل يوم. الإدارة العليا نادراً ما تزور الموقع ولا تفهم مشاكلنا.,teamwork;leadership,mixed,medium,none,analyst_1,random_by_language
+R02767,en,Latn,The new rotation schedule gives us more time to rest. The move from permanent to project-based contracts has made people anxious. We have not had any technical training in the last two years.,work_life;job_security;training,mixed,medium,none,analyst_1,random_by_language
+R01701,ar,Arab,نظام التصاريح الرقمي الجديد جعل عملنا أسرع بكثير. أُتيحت لي هذا العام فرصة قيادة حزمة عمل صغيرة، وقد ساعدني ذلك كثيراً على التطور. يدخل العمال إلى الأماكن المغلقة دون فحص الغازات لأن إصدار التصريح يستغرق وقتاً طويلاً.,tools_equipment;career_growth;health_safety,mixed,critical,safety_hazard,analyst_1,enriched_sensitive
+R02752,en,Latn,We hear about important changes through rumours before management tells us. The monthly town halls keep us informed about the company's plans.,communication,mixed,medium,none,analyst_1,random_by_language
+R00209,ur,Arab,مجھے کمپنی کی سمت پر بھروسہ ہے اور ہم جو پروجیکٹس مکمل کرتے ہیں ان پر فخر ہے۔,leadership,positive,low,none,analyst_1,random_by_language
+R00490,ur,Arab,کوئی تبصرہ نہیں۔,other,neutral,low,none,analyst_1,random_by_language
+R01833,hi,Deva,"मेरे मैनेजर हमारी बात सुनते हैं, साथ देते हैं और साफ़ निर्देश देते हैं। नया रहने का इंतज़ाम और मेस हॉल साफ़-सुथरे और आरामदायक हैं। ज़्यादा जानकारी के लिए मुझसे 98765 43210 पर संपर्क करें।",manager_support;facilities,positive,low,none,analyst_1,random_by_language
+R01526,ur,Arab,نئی رہائش اور میس ہال صاف ستھرے اور آرام دہ ہیں۔ کچھ خاص قومیت کے لوگوں کو اچھے کمرے اور آسان شفٹیں ملتی ہیں، باقی ہم سب کو نہیں۔,facilities;respect_inclusion,mixed,high,discrimination,analyst_1,enriched_sensitive
+R02262,hi,Deva,"हमारे सेक्शन का एक सुपरवाइज़र वर्कर्स पर चिल्लाता है, गालियाँ देता है और वापस घर भेजने की धमकी देता है। प्रमोशन उन्हें मिलता है जो बॉस के क़रीब हैं, काम करने वालों को नहीं।",respect_inclusion;manager_support;career_growth,negative,critical,harassment,analyst_1,enriched_sensitive
+R02304,hi,Deva,कई महीनों से स्टाफ़ की कमी है और हर कोई दो लोगों का काम कर रहा है।,workload,negative,medium,none,analyst_1,random_by_language
+R01456,hi,Deva,इस साइट पर सेफ़्टी के मानक अच्छे हैं और सुपरवाइज़र उन्हें गंभीरता से लेते हैं। ज़्यादा जानकारी के लिए मुझसे 98765 43210 पर संपर्क करें।,health_safety,positive,low,none,analyst_1,random_by_language
+R02416,ur,Arab,میرے ساتھی گھر والوں کی طرح ہیں، ہم روز ایک دوسرے کی مدد کرتے ہیں۔,teamwork,positive,low,none,analyst_1,random_by_language
+R02056,ar,Arab,الترقيات تذهب للمقربين من المدير وليس لمن يعمل بجد.,career_growth;respect_inclusion,negative,medium,none,analyst_1,random_by_language
+R00856,hi,Deva,"मेरे मैनेजर हमारी बात सुनते हैं, साथ देते हैं और साफ़ निर्देश देते हैं। मेरे साथी परिवार जैसे हैं, हम रोज़ एक-दूसरे की मदद करते हैं।",manager_support;teamwork,positive,low,none,analyst_1,random_by_language
+R02273,en,Latn,We have been short-staffed for months and everyone is covering two jobs.,workload,negative,medium,none,analyst_1,random_by_language
+R01796,hi,Deva,"कैंप के कमरों में बहुत भीड़ है, एक कमरे में आठ लोग हैं और एसी कई हफ़्तों से ख़राब है। सीनियर मैनेजमेंट साइट पर बहुत कम आता है और हमारी समस्याएँ नहीं समझता।",facilities;leadership,negative,high,none,analyst_1,random_by_language
+R01950,hi,Deva,"मेरे साथी परिवार जैसे हैं, हम रोज़ एक-दूसरे की मदद करते हैं। ज़्यादा जानकारी के लिए मुझसे 98765 43210 पर संपर्क करें।",teamwork,positive,low,none,analyst_1,random_by_language
+R02074,ar,Arab,نظام التصاريح الرقمي الجديد جعل عملنا أسرع بكثير.,tools_equipment,positive,low,none,analyst_1,random_by_language
+R00250,ur,Arab,پچھلے دو سال میں ہمیں کوئی ٹیکنیکل ٹریننگ نہیں ملی۔,training,negative,medium,none,analyst_1,random_by_language
+R02561,ar,Arab,الإدارة العليا نادراً ما تزور الموقع ولا تفهم مشاكلنا.,leadership,negative,medium,none,analyst_1,random_by_language
+R01501,ar,Arab,نعاني من نقص في عدد الموظفين منذ أشهر، وكل واحد منا يقوم بعمل شخصين.,workload,negative,medium,none,analyst_1,random_by_language
+R00266,ur,Arab,میری چھٹی دو بار ملتوی ہو چکی ہے اور میں دو سال سے گھر نہیں گیا۔,work_life,negative,high,none,analyst_1,random_by_language
+R00079,ur,Arab,نئے روٹیشن شیڈول سے آرام کا زیادہ وقت ملتا ہے۔,work_life,positive,low,none,analyst_1,random_by_language
+R02639,ar,Arab,نعمل ورديات من اثنتي عشرة ساعة ستة أيام في الأسبوع، وبالكاد أرى عائلتي. أحزمة الأمان لدينا قديمة وتالفة، وطلبات استبدالها يتم تجاهلها.,work_life;health_safety;tools_equipment,negative,critical,safety_hazard,analyst_1,enriched_sensitive
+R02222,hi,Deva,"कई महीनों से स्टाफ़ की कमी है और हर कोई दो लोगों का काम कर रहा है। हमारे सेक्शन का एक सुपरवाइज़र वर्कर्स पर चिल्लाता है, गालियाँ देता है और वापस घर भेजने की धमकी देता है।",workload;respect_inclusion;manager_support,negative,critical,harassment,analyst_1,enriched_sensitive
+R01873,hi,Deva,"यहाँ हर किसी के साथ इज़्ज़त से पेश आया जाता है, चाहे वह किसी भी देश का हो।",respect_inclusion,positive,low,none,analyst_1,random_by_language
+R02680,en,Latn,The new accommodation and mess hall are clean and comfortable.,facilities,positive,low,none,analyst_1,random_by_language
+R01034,en,Latn,The new rotation schedule gives us more time to rest. The food in the mess is poor and it is the same every day. We waste hours waiting for tools and spare parts from the store.,work_life;facilities;tools_equipment,mixed,medium,none,analyst_1,random_by_language
+R02584,en,Latn,We waste hours waiting for tools and spare parts from the store.,tools_equipment,negative,medium,none,analyst_1,random_by_language
+R02703,en,Latn,Safety standards on this site are strong and supervisors take them seriously. The monthly town halls keep us informed about the company's plans.,health_safety;communication,positive,low,none,analyst_1,random_by_language
+R01384,ar,Arab,نعاني من نقص في عدد الموظفين منذ أشهر، وكل واحد منا يقوم بعمل شخصين. الطعام في المطعم سيئ ونفسه كل يوم.,workload;facilities,negative,medium,none,analyst_1,random_by_language
+R00967,hi,Deva,"तनख़्वाह महँगाई के हिसाब से नहीं बढ़ी, ख़ासकर किराया बहुत बढ़ गया है।",pay_benefits,negative,medium,none,analyst_1,random_by_language
+R02728,ar,Arab,يدخل العمال إلى الأماكن المغلقة دون فحص الغازات لأن إصدار التصريح يستغرق وقتاً طويلاً. نظام ERP بطيء ونضطر لتعبئة النماذج نفسها مرتين.,health_safety;tools_equipment,negative,critical,safety_hazard,analyst_1,random_by_language
+R01974,hi,Deva,"सालाना अवॉर्ड्स में हमारी टीम को सम्मान मिला, सबका हौसला बढ़ा।",recognition,positive,low,none,analyst_1,random_by_language
+R02851,en,Latn,"Workers of certain nationalities get better rooms and easier shifts than the rest of us. Salaries have not kept up with the cost of living, especially rent.",respect_inclusion;facilities;pay_benefits,negative,high,discrimination,analyst_1,random_by_language
+R01776,ur,Arab,میرے ساتھی گھر والوں کی طرح ہیں، ہم روز ایک دوسرے کی مدد کرتے ہیں۔,teamwork,positive,low,none,analyst_1,random_by_language
+R00328,ur,Latn,"Is saal mujhe ek chota work package lead karne ka mauqa mila, is se meri bohat growth hui.",career_growth,positive,low,none,analyst_1,random_by_language
+R00790,hi,Deva,"नए रोटेशन शेड्यूल से आराम का ज़्यादा समय मिलता है। ज़रूरी बदलावों का हमें अफ़वाहों से पता चलता है, मैनेजमेंट बाद में बताता है। इंजीनियरिंग और कंस्ट्रक्शन टीमों के बीच तालमेल बहुत कम है।",work_life;communication;teamwork,mixed,medium,none,analyst_1,random_by_language
+R00119,en,Latn,"Promotions go to people who are close to the boss, not to those who perform.",career_growth;respect_inclusion,negative,medium,none,analyst_1,random_by_language
+R01250,ar,Arab,نظام التصاريح الرقمي الجديد جعل عملنا أسرع بكثير. ضغط العمل في مشروع الإيقاف لا يُحتمل، وبدأ مهندسون جيدون بالاستقالة بسببه.,tools_equipment;workload,mixed,high,none,analyst_1,random_by_language
+R01947,en,Latn,"The camp rooms are overcrowded, eight people to a room, and the air conditioning has been broken for weeks. It would help if the criteria for annual increments were shared openly. We waste hours waiting for tools and spare parts from the store.",facilities;pay_benefits;tools_equipment,negative,high,none,analyst_1,random_by_language
+R00686,ur,Arab,نئے ڈیجیٹل پرمٹ سسٹم سے ہمارا کام بہت تیز ہو گیا ہے۔ کچھ خاص قومیت کے لوگوں کو اچھے کمرے اور آسان شفٹیں ملتی ہیں، باقی ہم سب کو نہیں۔,tools_equipment;respect_inclusion;facilities,mixed,high,discrimination,analyst_1,enriched_sensitive
+R00970,ur,Latn,"Yahan har kisi ke saath izzat se pesh aaya jata hai, chahe wo kisi bhi mulk ka ho. Main paanch saal se ek hi grade mein hoon aur promotion ka koi wazeh rasta nahi.",respect_inclusion;career_growth,mixed,medium,none,analyst_1,random_by_language
+R01207,en,Latn,"Everyone here is treated with respect, whatever their nationality.",respect_inclusion,positive,low,none,analyst_1,random_by_language
+R01694,hi,Deva,कोई टिप्पणी नहीं।,other,neutral,low,none,analyst_1,random_by_language
+R01569,ur,Arab,یہاں ہر کسی کے ساتھ عزت سے پیش آیا جاتا ہے، چاہے وہ کسی بھی ملک کا ہو۔,respect_inclusion,positive,low,none,analyst_1,random_by_language
+R01889,ur,Arab,پچھلے دو سال میں ہمیں کوئی ٹیکنیکل ٹریننگ نہیں ملی۔,training,negative,medium,none,analyst_1,random_by_language
+R01153,ar,Arab,لا يوجد.,other,neutral,low,none,analyst_1,random_by_language
+R00887,hi,Deva,मेडिकल इंश्योरेंस अच्छा है और क्लेम जल्दी पास हो जाता है। नए डिजिटल परमिट सिस्टम से हमारा काम बहुत तेज़ हो गया है।,pay_benefits;tools_equipment,positive,low,none,analyst_1,random_by_language
+R02548,en,Latn,The project ends in March and nobody knows if our contracts will be renewed. The move from permanent to project-based contracts has made people anxious.,job_security,negative,high,none,analyst_1,random_by_language
+R01483,hi,Deva,मेस का खाना अच्छा नहीं है और रोज़ एक जैसा होता है।,facilities,negative,medium,none,analyst_1,random_by_language
+R01057,hi,Deva,मेडिकल इंश्योरेंस अच्छा है और क्लेम जल्दी पास हो जाता है।,pay_benefits,positive,low,none,analyst_1,random_by_language
+R02015,ar,Arab,لا يوجد.,other,neutral,low,none,analyst_1,random_by_language
+R02607,ar,Arab,السكن الجديد وصالة الطعام نظيفان ومريحان.,facilities,positive,low,none,analyst_1,random_by_language
+R00929,ar,Arab,لم نحصل على أي تدريب فني خلال السنتين الماضيتين.,training,negative,medium,none,analyst_1,random_by_language
+R01605,hi,Deva,कोई टिप्पणी नहीं।,other,neutral,low,none,analyst_1,random_by_language
+R02528,en,Latn,"good work is never acknowledged, only mistakes get noticed i feel secure in my job, and the company looked after us during difficult times",recognition;job_security,mixed,medium,none,analyst_1,random_by_language
+R02240,ar,Arab,لا يوجد.,other,neutral,low,none,analyst_1,random_by_language
+R00453,ur,Arab,سینئر مینجمنٹ سائٹ پر بہت کم آتی ہے اور ہمارے مسائل نہیں سمجھتی۔,leadership,negative,medium,none,analyst_1,random_by_language
+R01187,ar,Arab,نعاني من نقص في عدد الموظفين منذ أشهر، وكل واحد منا يقوم بعمل شخصين.,workload,negative,medium,none,analyst_1,random_by_language
+R00760,ur,Latn,"Store se tools aur spare parts ke intezar mein ghanton zaya ho jate hain. Kuch khaas mulkon ke logon ko achay kamre aur aasan shifts milti hain, baaqi hum sab ko nahi.",tools_equipment;respect_inclusion;facilities,negative,high,discrimination,analyst_1,random_by_language
+R00379,en,Latn,i trust the company's direction and i am proud of the projects we deliver we have not had any technical training in the last two years,leadership;training,mixed,medium,none,analyst_1,random_by_language
+R02673,en,Latn,Stress levels in our department are very high and there is no support. We hear about important changes through rumours before management tells us.,wellbeing;communication,negative,medium,none,analyst_1,random_by_language
+R00858,ar,Arab,مستحقات العمل الإضافي متأخرة منذ ثلاثة أشهر ولا أحد يشرح السبب.,pay_benefits,negative,high,none,analyst_1,random_by_language
+R00902,hi,Deva,"कैंप के कमरों में बहुत भीड़ है, एक कमरे में आठ लोग हैं और एसी कई हफ़्तों से ख़राब है।",facilities,negative,high,none,analyst_1,random_by_language
+R01685,hi,Deva,हमारे डिपार्टमेंट में तनाव बहुत ज़्यादा है और कोई सपोर्ट नहीं है। एक सीनियर सहकर्मी बार-बार मेरे रंग-रूप पर ग़लत टिप्पणियाँ करता है और मुझे शिकायत करने में डर लगता है। महीने की टाउन हॉल मीटिंग से हमें कंपनी के प्लान की जानकारी मिलती रहती है।,wellbeing;respect_inclusion;communication,mixed,critical,harassment,analyst_1,enriched_sensitive
+R01357,hi,Deva,"वेल्डिंग सर्टिफ़िकेशन कोर्स बहुत बढ़िया था, बहुत कुछ सीखा। सुपरवाइज़र सिर्फ़ तब बात करते हैं जब कोई गलती हो जाए।",training;manager_support,mixed,medium,none,analyst_1,random_by_language
+R02663,en,Latn,"Salaries have not kept up with the cost of living, especially rent.",pay_benefits,negative,medium,none,analyst_1,random_by_language
+R00676,ur,Arab,نئی رہائش اور میس ہال صاف ستھرے اور آرام دہ ہیں۔ مجھے اپنی نوکری محفوظ لگتی ہے، اور مشکل وقت میں کمپنی نے ہمارا خیال رکھا۔,facilities;job_security,positive,low,none,analyst_1,random_by_language
+R01812,hi,Deva,पिछले दो साल में हमें कोई टेक्निकल ट्रेनिंग नहीं मिली।,training,negative,medium,none,analyst_1,random_by_language
+R00409,ur,Arab,انجینئرنگ اور کنسٹرکشن ٹیموں کے درمیان تعاون بہت کم ہے۔ پروجیکٹ مارچ میں ختم ہو رہا ہے اور کسی کو نہیں پتا کہ ہمارے کنٹریکٹ رینیو ہوں گے یا نہیں۔,teamwork;job_security,negative,high,none,analyst_1,random_by_language
+R02192,ar,Arab,التأمين الطبي جيد وإجراءات المطالبات سريعة.,pay_benefits,positive,low,none,analyst_1,random_by_language
+R02751,ar,Arab,التأمين الطبي جيد وإجراءات المطالبات سريعة.,pay_benefits,positive,low,none,analyst_1,random_by_language
+R01284,ar,Arab,نسمع عن التغييرات المهمة من الإشاعات قبل أن تخبرنا الإدارة.,communication,negative,medium,none,analyst_1,random_by_language
+R00256,ur,Latn,Kuch nahi.,other,neutral,low,none,analyst_1,random_by_language
+R01581,hi,Deva,इंजीनियरिंग और कंस्ट्रक्शन टीमों के बीच तालमेल बहुत कम है।,teamwork,negative,medium,none,analyst_1,random_by_language
+R01648,ar,Arab,جدول المناوبة الجديد يمنحنا وقتاً أطول للراحة. أشعر بالأمان في وظيفتي، والشركة اعتنت بنا في الأوقات الصعبة.,work_life;job_security,positive,low,none,analyst_1,random_by_language
+R01665,hi,Deva,"तनख़्वाह महँगाई के हिसाब से नहीं बढ़ी, ख़ासकर किराया बहुत बढ़ गया है।",pay_benefits,negative,medium,none,analyst_1,random_by_language
+R01659,ur,Arab,کئی مہینوں سے اسٹاف کم ہے اور ہر بندہ دو لوگوں کا کام کر رہا ہے۔,workload,negative,medium,none,analyst_1,random_by_language
+R02393,hi,Deva,नए रोटेशन शेड्यूल से आराम का ज़्यादा समय मिलता है। इंजीनियरिंग और कंस्ट्रक्शन टीमों के बीच तालमेल बहुत कम है।,work_life;teamwork,mixed,medium,none,analyst_1,random_by_language
+R02664,ar,Arab,يدخل العمال إلى الأماكن المغلقة دون فحص الغازات لأن إصدار التصريح يستغرق وقتاً طويلاً. خط الاستشارات النفسية الجديد خطوة جيدة. سيكون من المفيد لو تم الإعلان بوضوح عن معايير الزيادة السنوية.,health_safety;wellbeing;pay_benefits,mixed,critical,safety_hazard,analyst_1,enriched_sensitive
+R01150,en,Latn,"my leave has been postponed twice and i have not been home for two years good work is never acknowledged, only mistakes get noticed",work_life;recognition,negative,high,none,analyst_1,random_by_language
+R01688,ar,Arab,أشعر بالأمان في وظيفتي، والشركة اعتنت بنا في الأوقات الصعبة.,job_security,positive,low,none,analyst_1,random_by_language
+R01500,ur,Latn,"Bilal sirf tab baat karta hai jab koi ghalti ho jaye. Kaam zyada hai lekin planning achi hai, aur mera supervisor kaam barabar taqseem karta hai.",manager_support;workload,mixed,medium,none,analyst_1,random_by_language
+R02226,ar,Arab,سيكون من المفيد لو تم الإعلان بوضوح عن معايير الزيادة السنوية. كانت دورة شهادة اللحام ممتازة وتعلمت منها الكثير.,pay_benefits;training,positive,low,none,analyst_1,random_by_language
+R01951,ur,Arab,سائٹ کی بس صبح ساڑھے چار بجے نکلتی ہے اور روز دو گھنٹے سفر میں ضائع ہوتے ہیں۔,facilities;work_life,negative,medium,none,analyst_1,random_by_language
+R02441,ur,Arab,مستقل کنٹریکٹ سے پروجیکٹ بیسڈ کنٹریکٹ پر جانے سے لوگ پریشان ہیں۔ ہمارے سیکشن کا ایک سپروائزر ورکرز پر چیختا ہے، گالیاں دیتا ہے اور واپس گھر بھیجنے کی دھمکی دیتا ہے۔,job_security;respect_inclusion;manager_support,negative,critical,harassment,analyst_1,enriched_sensitive
+R02419,ur,Arab,ہم ہفتے میں چھ دن بارہ بارہ گھنٹے کی شفٹ کرتے ہیں، گھر والوں سے ملنا مشکل ہو گیا ہے۔,work_life,negative,medium,none,analyst_1,random_by_language
+R00536,en,Latn,the medical insurance is good and the claims process is quick the scaffolding at unit 3 has no guardrails and we were told to keep working anyway,pay_benefits;health_safety,mixed,critical,safety_hazard,analyst_1,enriched_sensitive
+R02369,hi,Deva,"ज़रूरी बदलावों का हमें अफ़वाहों से पता चलता है, मैनेजमेंट बाद में बताता है। मेडिकल इंश्योरेंस अच्छा है और क्लेम जल्दी पास हो जाता है।",communication;pay_benefits,mixed,medium,none,analyst_1,random_by_language
+R01131,ur,Arab,میری چھٹی دو بار ملتوی ہو چکی ہے اور میں دو سال سے گھر نہیں گیا۔ ایک سینئر ساتھی بار بار میری شکل و صورت پر نامناسب باتیں کرتا ہے اور مجھے شکایت کرنے میں ڈر لگتا ہے۔,work_life;respect_inclusion,negative,critical,harassment,analyst_1,enriched_sensitive
+R01716,ur,Arab,ای آر پی سسٹم بہت سست ہے اور ایک ہی فارم دو بار بھرنا پڑتا ہے۔,tools_equipment,negative,medium,none,analyst_1,random_by_language
+R01731,hi,Deva,साइट की बस सुबह साढ़े चार बजे निकलती है और रोज़ दो घंटे सफ़र में बर्बाद होते हैं।,facilities;work_life,negative,medium,none,analyst_1,random_by_language
+R01866,hi,Deva,मेडिकल इंश्योरेंस अच्छा है और क्लेम जल्दी पास हो जाता है।,pay_benefits,positive,low,none,analyst_1,random_by_language
+R01753,hi,Deva,"ईआरपी सिस्टम बहुत धीमा है और एक ही फ़ॉर्म दो बार भरना पड़ता है। कुछ ख़ास देशों के लोगों को अच्छे कमरे और आसान शिफ़्ट मिलती हैं, बाक़ी हम सबको नहीं।",tools_equipment;respect_inclusion;facilities,negative,high,discrimination,analyst_1,enriched_sensitive
+R02621,ar,Arab,مديري يستمع إلينا ويدعمنا ويعطي توجيهات واضحة. الأشخاص الذين قدموا شكاوى العام الماضي نُقلوا بعدها إلى ورديات أسوأ.,manager_support;respect_inclusion,mixed,high,retaliation,analyst_1,enriched_sensitive
+R00951,ur,Latn,"Mujhe apni naukri mehfooz lagti hai, aur mushkil waqt mein company ne hamara khayal rakha. Hum haftay mein chhe din barah barah ghante ki shift karte hain, ghar walon se milna mushkil ho gaya hai. Jin logon ne pichle saal shikayat ki thi, baad mein unko buri shifts par bhej diya gaya.",job_security;work_life;respect_inclusion,mixed,high,retaliation,analyst_1,enriched_sensitive
+R00365,en,Latn,"The monthly town halls keep us informed about the company's plans. I was given the chance to lead a small work package this year, and it really helped my growth.",communication;career_growth,positive,low,none,analyst_1,random_by_language
+R02162,ar,Arab,العمل كثير لكنه مخطط جيداً، ومشرفي يحرص على توزيع المهام بشكل عادل. مستوى التوتر في قسمنا مرتفع جداً ولا يوجد أي دعم.,workload;manager_support;wellbeing,mixed,medium,none,analyst_1,random_by_language
+R00706,ar,Arab,تم تكريم فريقنا في الحفل السنوي وكان ذلك دافعاً للجميع.,recognition,positive,low,none,analyst_1,random_by_language
+R02726,ar,Arab,العمال من جنسيات معينة يحصلون على غرف أفضل وورديات أسهل من بقيتنا. التأمين الطبي جيد وإجراءات المطالبات سريعة.,respect_inclusion;facilities;pay_benefits,mixed,high,discrimination,analyst_1,enriched_sensitive
+R01247,en,Latn,Good work is never acknowledged; only mistakes get noticed.,recognition,negative,medium,none,analyst_1,random_by_language
+R02565,ar,Arab,السقالات في الوحدة 3 بلا حواجز حماية، وقيل لنا أن نستمر في العمل رغم ذلك. نعاني من نقص في عدد الموظفين منذ أشهر، وكل واحد منا يقوم بعمل شخصين.,health_safety;workload,negative,critical,safety_hazard,analyst_1,enriched_sensitive
+R02266,ar,Arab,العمل كثير لكنه مخطط جيداً، ومشرفي يحرص على توزيع المهام بشكل عادل. أحد المشرفين في قسمنا يصرخ على العمال ويهينهم ويهددهم بترحيلهم.,workload;manager_support;respect_inclusion,mixed,critical,harassment,analyst_1,enriched_sensitive
+R00144,en,Latn,"My manager listens, supports us and gives clear direction.",manager_support,positive,low,none,analyst_1,random_by_language
+R00138,ur,Arab,سالانہ ایوارڈز میں ہماری ٹیم کو سراہا گیا، سب کا حوصلہ بڑھا۔ اس سائٹ پر سیفٹی کے معیار اچھے ہیں اور سپروائزر انہیں سنجیدگی سے لیتے ہیں۔ میں پانچ سال سے ایک ہی گریڈ میں ہوں اور پروموشن کا کوئی واضح راستہ نہیں۔,recognition;health_safety;career_growth,mixed,medium,none,analyst_1,random_by_language
+R02028,hi,Deva,"इस साल मुझे एक छोटा वर्क पैकेज लीड करने का मौक़ा मिला, इससे मेरी बहुत ग्रोथ हुई। काम ज़्यादा है लेकिन प्लानिंग अच्छी है, और मेरा सुपरवाइज़र काम बराबर बाँटता है।",career_growth;workload;manager_support,positive,low,none,analyst_1,random_by_language
+R00891,hi,Deva,"तनख़्वाह महँगाई के हिसाब से नहीं बढ़ी, ख़ासकर किराया बहुत बढ़ गया है। मुझे अपनी नौकरी सुरक्षित लगती है, और मुश्किल वक़्त में कंपनी ने हमारा ख़याल रखा।",pay_benefits;job_security,mixed,medium,none,analyst_1,random_by_language
+R02038,ar,Arab,أُتيحت لي هذا العام فرصة قيادة حزمة عمل صغيرة، وقد ساعدني ذلك كثيراً على التطور.,career_growth,positive,low,none,analyst_1,random_by_language
+R02593,en,Latn,"People who raised complaints last year were moved to worse shifts afterwards. Salaries have not kept up with the cost of living, especially rent.",respect_inclusion;pay_benefits,negative,high,retaliation,analyst_1,enriched_sensitive
+R02327,en,Latn,"The medical insurance is good and the claims process is quick. I was given the chance to lead a small work package this year, and it really helped my growth.",pay_benefits;career_growth,positive,low,none,analyst_1,random_by_language
+R02040,ar,Arab,نظام التصاريح الرقمي الجديد جعل عملنا أسرع بكثير. الجميع هنا يُعامَلون باحترام بغض النظر عن جنسياتهم. السقالات في الوحدة 3 بلا حواجز حماية، وقيل لنا أن نستمر في العمل رغم ذلك.,tools_equipment;respect_inclusion;health_safety,mixed,critical,safety_hazard,analyst_1,enriched_sensitive
+R00697,en,Latn,"Good work is never acknowledged; only mistakes get noticed. Promotions go to people who are close to the boss, not to those who perform.",recognition;career_growth;respect_inclusion,negative,medium,none,analyst_1,random_by_language
+R01468,hi,Deva,इस साइट पर सेफ़्टी के मानक अच्छे हैं और सुपरवाइज़र उन्हें गंभीरता से लेते हैं।,health_safety,positive,low,none,analyst_1,random_by_language
+R01514,ar,Arab,التأمين الطبي جيد وإجراءات المطالبات سريعة. جدول المناوبة الجديد يمنحنا وقتاً أطول للراحة.,pay_benefits;work_life,positive,low,none,analyst_1,random_by_language
+R01235,ar,Arab,نظام التصاريح الرقمي الجديد جعل عملنا أسرع بكثير. الاجتماعات الشهرية العامة تبقينا على اطلاع بخطط الشركة. أثق في توجه الشركة وأفخر بالمشاريع التي ننجزها.,tools_equipment;communication;leadership,positive,low,none,analyst_1,random_by_language
+R00451,ur,Arab,نئی رہائش اور میس ہال صاف ستھرے اور آرام دہ ہیں۔ اس سال مجھے ایک چھوٹا ورک پیکج لیڈ کرنے کا موقع ملا، اس سے میری بہت گروتھ ہوئی۔,facilities;career_growth,positive,low,none,analyst_1,random_by_language
+R02580,ar,Arab,المشرف لا يتحدث معنا إلا عندما يحدث خطأ. التعاون بين فريقي الهندسة والإنشاءات ضعيف جداً.,manager_support;teamwork,negative,medium,none,analyst_1,random_by_language
+R00647,ur,Latn,"Shutdown project par kaam ka bojh bardasht se bahar hai, achay engineers isi wajah se resign kar rahe hain. Project March mein khatam ho raha hai aur kisi ko nahi pata ke hamare contract renew honge ya nahi. Mere saathi ghar walon ki tarah hain, hum roz ek doosre ki madad karte hain. Detail ke liye mujhse 0300-1234567 par rabta karein.",workload;job_security;teamwork,mixed,high,none,analyst_1,random_by_language
+R00679,ur,Arab,کیمپ کے کمروں میں بہت رش ہے، ایک کمرے میں آٹھ لوگ ہیں اور اے سی کئی ہفتوں سے خراب ہے۔,facilities,negative,high,none,analyst_1,random_by_language
+R01949,hi,Deva,"तनख़्वाह महँगाई के हिसाब से नहीं बढ़ी, ख़ासकर किराया बहुत बढ़ गया है। कैंप के कमरों में बहुत भीड़ है, एक कमरे में आठ लोग हैं और एसी कई हफ़्तों से ख़राब है।",pay_benefits;facilities,negative,high,none,analyst_1,random_by_language
+R00014,ur,Latn,"Is saal mujhe ek chota work package lead karne ka mauqa mila, is se meri bohat growth hui. Naye digital permit system se hamara kaam bohat tez ho gaya hai.",career_growth;tools_equipment,positive,low,none,analyst_1,random_by_language
+R02394,ur,Latn,Supervisor sirf tab baat karta hai jab koi ghalti ho jaye.,manager_support,negative,medium,none,analyst_1,random_by_language
+R01111,ur,Arab,پروموشن ان کو ملتی ہے جو باس کے قریب ہیں، کام کرنے والوں کو نہیں۔,career_growth;respect_inclusion,negative,medium,none,analyst_1,random_by_language
+R01196,en,Latn,It would help if the criteria for annual increments were shared openly.,pay_benefits,neutral,low,none,analyst_1,random_by_language
+R00029,en,Latn,The move from permanent to project-based contracts has made people anxious.,job_security,negative,medium,none,analyst_1,random_by_language
+R00005,ur,Arab,پروموشن ان کو ملتی ہے جو باس کے قریب ہیں، کام کرنے والوں کو نہیں۔ ہم اسٹور سے ٹولز اور اسپیئر پارٹس کے انتظار میں گھنٹوں ضائع کرتے ہیں۔,career_growth;respect_inclusion;tools_equipment,negative,medium,none,analyst_1,random_by_language
+R02577,ar,Arab,أُتيحت لي هذا العام فرصة قيادة حزمة عمل صغيرة، وقد ساعدني ذلك كثيراً على التطور. أنا في نفس الدرجة الوظيفية منذ خمس سنوات دون مسار واضح للترقية.,career_growth,mixed,medium,none,analyst_1,random_by_language
+R00078,ur,Arab,میڈیکل انشورنس اچھی ہے اور کلیم جلدی منظور ہو جاتا ہے۔ اہم تبدیلیوں کا ہمیں افواہوں سے پتا چلتا ہے، مینجمنٹ بعد میں بتاتی ہے۔ ماہانہ ٹاؤن ہال میٹنگز سے ہمیں کمپنی کے پلانز کا پتا رہتا ہے۔,pay_benefits;communication,mixed,medium,none,analyst_1,random_by_language
+R01698,ar,Arab,غرف السكن مكتظة، ثمانية أشخاص في الغرفة الواحدة، والمكيف معطل منذ أسابيع. جدول المناوبة الجديد يمنحنا وقتاً أطول للراحة.,facilities;work_life,mixed,high,none,analyst_1,random_by_language
+R02585,ar,Arab,نظام ERP بطيء ونضطر لتعبئة النماذج نفسها مرتين.,tools_equipment,negative,medium,none,analyst_1,random_by_language
+R02101,en,Latn,My colleagues are like family; we help each other every day.,teamwork,positive,low,none,analyst_1,random_by_language
+R01466,en,Latn,N/A,other,neutral,low,none,analyst_1,random_by_language
+R00884,ar,Arab,الرواتب لم تعد تتناسب مع غلاء المعيشة، وخاصة الإيجارات.,pay_benefits,negative,medium,none,analyst_1,random_by_language
+R01918,ur,Arab,ہم اسٹور سے ٹولز اور اسپیئر پارٹس کے انتظار میں گھنٹوں ضائع کرتے ہیں۔,tools_equipment,negative,medium,none,analyst_1,random_by_language
+R01463,hi,Deva,"काम ज़्यादा है लेकिन प्लानिंग अच्छी है, और मेरा सुपरवाइज़र काम बराबर बाँटता है।",workload;manager_support,positive,low,none,analyst_1,random_by_language
+R01142,hi,Deva,नए रोटेशन शेड्यूल से आराम का ज़्यादा समय मिलता है।,work_life,positive,low,none,analyst_1,random_by_language
+R00053,ur,Arab,کام زیادہ ہے لیکن پلاننگ اچھی ہے، اور میرا سپروائزر کام برابر تقسیم کرتا ہے۔ نئے ڈیجیٹل پرمٹ سسٹم سے ہمارا کام بہت تیز ہو گیا ہے۔,workload;manager_support;tools_equipment,positive,low,none,analyst_1,random_by_language
+R02795,en,Latn,The new counselling helpline is a good step.,wellbeing,positive,low,none,analyst_1,random_by_language
+R00637,ur,Latn,Project March mein khatam ho raha hai aur kisi ko nahi pata ke hamare contract renew honge ya nahi. Senior management site par bohat kam aati hai aur hamare masail nahi samajhti.,job_security;leadership,negative,high,none,analyst_1,random_by_language
+R00992,hi,Deva,"काम ज़्यादा है लेकिन प्लानिंग अच्छी है, और मेरा सुपरवाइज़र काम बराबर बाँटता है।",workload;manager_support,positive,low,none,analyst_1,random_by_language
+R01311,ar,Arab,مستحقات العمل الإضافي متأخرة منذ ثلاثة أشهر ولا أحد يشرح السبب. السكن الجديد وصالة الطعام نظيفان ومريحان.,pay_benefits;facilities,mixed,high,none,analyst_1,random_by_language
+R00716,hi,Deva,"इस साल मुझे एक छोटा वर्क पैकेज लीड करने का मौक़ा मिला, इससे मेरी बहुत ग्रोथ हुई। मेस का खाना अच्छा नहीं है और रोज़ एक जैसा होता है।",career_growth;facilities,mixed,medium,none,analyst_1,random_by_language
+R02477,en,Latn,"work is busy but well planned, and my supervisor makes sure the load is shared fairly",workload;manager_support,positive,low,none,analyst_1,random_by_language
+R01105,en,Latn,"The monthly town halls keep us informed about the company's plans. Salaries have not kept up with the cost of living, especially rent.",communication;pay_benefits,mixed,medium,none,analyst_1,random_by_language
+R00919,ar,Arab,مستحقات العمل الإضافي متأخرة منذ ثلاثة أشهر ولا أحد يشرح السبب.,pay_benefits,negative,high,none,analyst_1,random_by_language
+R01646,hi,Deva,कुछ नहीं।,other,neutral,low,none,analyst_1,random_by_language
+R00339,ur,Latn,Nayi rehaish aur mess hall saaf suthre aur aaram deh hain.,facilities,positive,low,none,analyst_1,random_by_language
+R00117,en,Latn,We hear about important changes through rumours before management tells us.,communication,negative,medium,none,analyst_1,random_by_language
+R01706,hi,Deva,नया रहने का इंतज़ाम और मेस हॉल साफ़-सुथरे और आरामदायक हैं। मैं पाँच साल से एक ही ग्रेड में हूँ और प्रमोशन का कोई साफ़ रास्ता नहीं है।,facilities;career_growth,mixed,medium,none,analyst_1,random_by_language
+R01075,ur,Arab,مجھے کمپنی کی سمت پر بھروسہ ہے اور ہم جو پروجیکٹس مکمل کرتے ہیں ان پر فخر ہے۔,leadership,positive,low,none,analyst_1,random_by_language
+R02259,en,Latn,"A supervisor in our section shouts at workers, insults them and threatens to send them home. We have not had any technical training in the last two years.",respect_inclusion;manager_support;training,negative,critical,harassment,analyst_1,enriched_sensitive
+R02526,en,Latn,There is very little cooperation between the engineering and construction teams. The new counselling helpline is a good step.,teamwork;wellbeing,mixed,medium,none,analyst_1,random_by_language
+R02709,ar,Arab,الإدارة العليا نادراً ما تزور الموقع ولا تفهم مشاكلنا. غرف السكن مكتظة، ثمانية أشخاص في الغرفة الواحدة، والمكيف معطل منذ أسابيع. خط الاستشارات النفسية الجديد خطوة جيدة.,leadership;facilities;wellbeing,mixed,high,none,analyst_1,random_by_language
+R00137,ur,Arab,کوئی تبصرہ نہیں۔,other,neutral,low,none,analyst_1,random_by_language
+R01952,ur,Arab,میرا مینیجر ہماری بات سنتا ہے، ساتھ دیتا ہے اور واضح ہدایات دیتا ہے۔ ہمارے سیفٹی ہارنس پرانے اور خراب ہیں، نئے مانگو تو کوئی سنتا نہیں۔,manager_support;health_safety;tools_equipment,mixed,critical,safety_hazard,analyst_1,random_by_language
